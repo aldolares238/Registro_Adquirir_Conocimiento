@@ -9,7 +9,9 @@ Requisitos
 Para ejecutar el chatbot, necesitarás tener instalado Python 3 y las siguientes bibliotecas:
 
 sqlite3 (generalmente incluido con Python)
-fuzzywuzzy y python-Levenshtein (puedes instalarlas con pip)
+fuzzywuzzy
+python-Levenshtein 
+(puedes instalarlas con pip)
 
 pip install fuzzywuzzy python-Levenshtein
 
