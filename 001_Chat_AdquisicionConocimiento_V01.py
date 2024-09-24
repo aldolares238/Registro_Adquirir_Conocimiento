@@ -1,6 +1,6 @@
 #Nombre: Aldo Emiliano Chavez Lares
 #Registro: 21310238
-#Grupo: 6E1
+#Grupo: 7F1
 
 
 import sqlite3
